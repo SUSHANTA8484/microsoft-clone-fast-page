@@ -1,0 +1,7 @@
+<img alt="" itemprop="logo" class="c-image" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"
+ role="presentation" aria-hidden="true" style="overflow-x: visible;">
+
+ <button id="search" aria-label="Search Microsoft.com" class="c-glyph" data-m="{&quot;cN&quot;:&quot;Search_nav&quot;,&quot;id&quot;:&quot;n3c3c1c7c4c1m1r1a1&quot;,&quot;sN&quot;:3,&quot;aN&quot;:&quot;c3c1c7c4c1m1r1a1&quot;}" data-bi-mto="true" aria-expanded="false" style="overflow-x: visible;" tabindex="4">
+                                        <span role="presentation" style="overflow-x: visible;">Search</span>
+                                        <span role="tooltip" class="c-uhf-tooltip c-uhf-search-tooltip" style="overflow-x: visible;">Search Microsoft.com</span>
+                                    </button>
